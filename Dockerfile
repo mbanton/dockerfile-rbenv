@@ -1,4 +1,4 @@
-FROM base
+FROM ubuntu:latest
 
 MAINTAINER mbanton "https://github.com/mbanton"
 
